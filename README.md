@@ -11,7 +11,7 @@ I am enthusiastic and professional, I am able to adapt to learn about new techno
 
 - 🌱 I’m currently learning Angular and Flutter
 
-- 🔭 Current Status Studying | Looking for a Job
+- 🔭 Current Status Studying and Working
 
 -  📫 How to reach me by email: ivanros@protonmail.com
   
