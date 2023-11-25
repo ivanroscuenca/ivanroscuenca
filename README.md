@@ -9,7 +9,7 @@ I am enthusiastic and professional, I am able to adapt to learn about new techno
 
 <br/>  
 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and Flutter
 
 - 🔭 Current Status Studying | Looking for a Job
 
