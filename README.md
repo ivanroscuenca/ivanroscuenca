@@ -22,7 +22,7 @@ I am enthusiastic and professional, I am able to adapt to learn about new techno
 ### Frontend  
 <div align="left">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> 
-  <a href="https://tailwindcss.com/docs" target="_blank"><img style="margin: 10px" src="https://vetores.org/wp-content/uploads/tailwind-css.png" alt="Tailwind CSS" height="50" /></a>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngrepo.com%2Fdownload%2F354431%2Ftailwindcss-icon.png" alt="Tailwind CSS" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
